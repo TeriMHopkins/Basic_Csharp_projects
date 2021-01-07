@@ -37,6 +37,8 @@ namespace PackageQuoteApp
 
             Console.WriteLine("\nYour estimated total for shipping this package is: " + total);
             Console.ReadLine();
+            Console.WriteLine("Thank you!");
+            Console.ReadLine();
         }
     }
 }
